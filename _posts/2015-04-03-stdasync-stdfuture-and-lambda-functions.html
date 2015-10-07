@@ -1,0 +1,16 @@
+---
+layout: post
+title: std::async, std::future and lambda functions to keep GUIs responsive
+date: '2015-04-03T17:34:00.001+02:00'
+author: Nicola Pezzotti
+tags:
+- C++
+- C++11
+- Multithreading
+modified_time: '2015-04-03T22:50:02.684+02:00'
+blogger_id: tag:blogger.com,1999:blog-7911490130261214164.post-6368999934807305491
+blogger_orig_url: http://diaryofatinker.blogspot.com/2015/04/stdasync-stdfuture-and-lambda-functions.html
+---
+
+
+It has been quite some time since my last post :)<br /><br />This week I submitted my first paper as a PhD student in TU Delft and I had to shot some video to show my work. I had to show some analytic routine that require some time to be computed but I wanted to keep my GUI responsive, so that the video would results nice.<br /><br />Imagine that you have a class that is similar to the following one:<br /> <script class="brush: c++" type="syntaxhighlighter"><![CDATA[ #include <thread> // std::this_thread::sleep_for #include <chrono> // std::chrono::seconds  class Worker{ public:  void DoSomeWork(int a, int b){   std::this_thread::sleep_for (std::chrono::seconds(a+b));  } }; ]]></script> You may want to call a method of the class that it is slow to compute. If you do that in the following way the the <i>(Not Responding)</i> problem in your GUI will occur.<br /> <script class="brush: c++" type="syntaxhighlighter"><![CDATA[ void QtGUI::AnalyticFunction(){  QMessageBox m_box(QMessageBox::Warning,"Wait for it!","Doing some work...");  m_box.setStandardButtons(0);  m_box.open();  QApplication::processEvents();      Worker worker;  worker.DoSomeWork(5,6);   m_box.hide(); } ]]></script> The easiest way to solve this problem is to use some cool features of C++11, std::future, std::async and the lambda functions. I use std::async to launch a thread where a lambda function is used to isolate the slow computation. A std::future is used to check if the asynchronous thread has completed the computation and meanwhile the application is refreshed. <br /><script class="brush: c++" type="syntaxhighlighter"><![CDATA[ void Hidra::on_actionLambda_triggered(){  QMessageBox m_box(QMessageBox::Warning,"Wait for it!","Doing some work...");  m_box.setStandardButtons(0);  m_box.open();  QApplication::processEvents();      Worker worker;  //worker.DoSomeWork(5,6);  auto future = std::async   (    std::launch::async,    [](Worker& worker, int a, int b){ //lambda     worker.DoSomeWork(a,b);    },    worker,5,6 //parameters   );    while(future.wait_for(std::chrono::milliseconds(10)) != std::future_status::ready){   QApplication::processEvents();  }   m_box.hide(); } ]]></script> there you go :)

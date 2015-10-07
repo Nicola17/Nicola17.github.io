@@ -12,7 +12,7 @@ Publications
 <img src="Pictures/protection.png" height="120">
 <img src="Pictures/tree.png" height="120">
 
-* M. Centin, N. Pezzotti, A. Signoroni. **Poisson-driven seamless completion of triangular meshes**. *Computer Aided Geometric Design*. [PDF](2014_Poisson_Driven_Seamless_completion.pdf)
+* M. Centin, N. Pezzotti, A. Signoroni. **Poisson-driven seamless completion of triangular meshes**. *Computer Aided Geometric Design*. [PDF](2014_Poisson_Driven_Seamless_completion.pdf), [Slides](2014_Poisson_Driven_Seamless_completion_presentation.pdf)
 
 
 

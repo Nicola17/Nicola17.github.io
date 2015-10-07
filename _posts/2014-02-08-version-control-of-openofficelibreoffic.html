@@ -1,0 +1,17 @@
+---
+layout: post
+title: Version control of OpenOffice/LibreOffice documents using git and Python
+date: '2014-02-08T19:57:00.000+01:00'
+author: Nicola Pezzotti
+tags:
+- Python
+- ODT
+- Git
+- GitHub
+- LibreOffice
+modified_time: '2014-02-08T19:57:40.028+01:00'
+blogger_id: tag:blogger.com,1999:blog-7911490130261214164.post-2603714688809418307
+blogger_orig_url: http://diaryofatinker.blogspot.com/2014/02/version-control-of-openofficelibreoffic.html
+---
+
+All my collegues in R&amp;D department love Latex! Unfortunately it's not the same for commercial office people.<br /><br />This is the reason why we write our manuals and documentations with LibreOffice. After the pain of a big revision on one of our manuals I've decided to introduce a version control also for the documentation as well.<br /><br />Thus I wrote down a python script that generate automatically a Git-Friendly version of the ODT files.<br /><br />Here's the <a href="https://github.com/Nicola17/ODT-Git-helper">link to the GitHub</a> project and to a <a href="https://github.com/Nicola17/ODT-Git-helper-test">test project</a><br /><br />If you launch the script with th -h option you will find how to use it:<br /><blockquote class="tr_bq" style="font-size:100%">odt_git_helper.py -h<br />usage: odt_git_helper.py [-h] [-v] [-c | -e] Directory ODT_File<br />Extract/Create an odt file in/from a directory.<br />positional arguments:<br />&nbsp; Directory &nbsp; &nbsp; &nbsp; target/destination directory<br />&nbsp; ODT_File &nbsp; &nbsp; &nbsp; &nbsp;target/destination odt file<br />optional arguments:<br />&nbsp; -h, --help &nbsp; &nbsp; &nbsp;show this help message and exit<br />&nbsp; -v, --verbose &nbsp; increase output verbosity<br />&nbsp; -c, --compress &nbsp;compress into an .odt file<br />&nbsp; -e, --extract &nbsp; extract odt file into a directory (default)</blockquote><div><br /></div>

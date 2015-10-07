@@ -1,3 +1,10 @@
 name: Nicola Pezzotti
-markdown: redcarpet
+markdown: kramdown
 baseurl: ''
+email: your-email@domain.com
+description: Nicola Pezzotti - I'm a PhD student in the Computer Graphics & Visulization group at Delft University of Technology. I'm supervised by Prof. Anna Vilanova and my Promotor is Prof. Elmar Eisemann. My research interest is mainly oriented towards the application of Machine Learning algorithms, in particular Manifold Learning and Deep Learning, in a Visual Analytics context. I'm also interest in 3D Scanning Technologies and Computational Geometry. # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://http://nicola17.github.io"
+twitter_username: nicolapezzotti
+github_username:  Nicola17
+
