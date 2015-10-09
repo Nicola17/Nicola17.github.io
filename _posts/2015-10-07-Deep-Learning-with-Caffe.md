@@ -28,7 +28,7 @@ First, I installed some dependencies.
 {% highlight bash %}
 sudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev 
 sudo apt-get install libopencv-dev libhdf5-serial-dev protobuf-compiler
-sudo apt-get install --no-install-recommends libboost-all-dev
+sudo apt-get install --no-install-recommends libboost-all-dev gfortran
 sudo apt-get install cuda python-dev libatlas-dev libatlas-base-dev
 sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev
 sudo pip install numpy
@@ -45,10 +45,11 @@ make
 
 Finally I had to install some packages required by the python module...
 {% highlight bash %}
-pip install scipy
-pip install scikit-image
-pip install protobuf
-pip install pyyaml
+sudo pip install --upgrade pip
+sudo pip install scipy
+sudo pip install scikit-image
+sudo pip install protobuf
+sudo pip install pyyaml
 {% endhighlight %}
 
 ... and I added the caffe's python folder in the environment variable PYTHONPATH.
