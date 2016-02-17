@@ -6,13 +6,20 @@ title: Nicola Pezzotti - Publications
 Publications
 ================
 
-2014
+2015
 -------
+
+<img src="Pictures/a_tsne/overview.png" height="120">
+<img src="Pictures/a_tsne/aba.png" height="120">
+<!--<img src="Pictures/a_tsne/rt.png" height="120">-->
+
+* N. Pezzotti, B.P.F. Lelieveldt, L. van der Maaten,T. Hollt, E. Eisemann, and A. Vilanova. **Approximated and User Steerable tSNE for Progressive Visual Analytics**. *ArXiv*, 2015. [PDF](http://arxiv.org/pdf/1512.01655v2.pdf)
+
 <img src="Pictures/dragon_armadillo_buddha.png" height="120">
 <img src="Pictures/protection.png" height="120">
 <img src="Pictures/tree.png" height="120">
 
-* M. Centin, N. Pezzotti, A. Signoroni. **Poisson-driven seamless completion of triangular meshes**. *Computer Aided Geometric Design*. [PDF](2014_Poisson_Driven_Seamless_completion.pdf), [Slides](2014_Poisson_Driven_Seamless_completion_presentation.pdf)
+* M. Centin, N. Pezzotti, A. Signoroni. **Poisson-driven seamless completion of triangular meshes**. *Computer Aided Geometric Design 35 (2015) 42-55*. [PDF](2014_Poisson_Driven_Seamless_completion.pdf), [Slides](2014_Poisson_Driven_Seamless_completion_presentation.pdf), [Bibtex](https://scholar.google.nl/scholar.bib?q=info:kmdSnlU02MkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAVsRRbkgD9w_9f0NRdQmQFC2dA0Z5RWSy&scisf=4&hl=it&scfhb=1)
 
 
 
