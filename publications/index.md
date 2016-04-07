@@ -6,6 +6,19 @@ title: Nicola Pezzotti - Publications
 Publications
 ================
 
+2016
+-------
+
+<img src="Pictures/2016_hsne/overview_final.png" height="120">
+<img src="Pictures/2016_hsne/sun_final_small.png" height="120">
+<img src="Pictures/2016_hsne/dl.png" height="120">
+
+* N. Pezzotti, T. Höllt, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **Hierarchical Stochastic Neighbor Embedding**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](publications/2016_hsne/preprint.pdf), [Suppl. Mat.](publications/2016_hsne/experiments.pdf), [Video](publications/2016_hsne/sun_analysis.mp4)
+
+<img src="Pictures/cytosplore.jpg" height="150">
+
+* T. Höllt, N. Pezzotti, V. van Unen, F. Koning, E. Eisemann, B.P.F. Lelieveldt, A. Vilanova. **Cytosplore: Interactive Immune Cell Phenotyping for Large Single-Cell Datasets**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](https://graphics.tudelft.nl/Publications-new/2016/HPVKELV16/eurovis16_Cytosplore_Interactive_Immune_Cell_Phenotyping_for_Large_Single-Cell_Datasets.pdf)
+
 2015
 -------
 
@@ -13,7 +26,7 @@ Publications
 <img src="Pictures/a_tsne/aba.png" height="120">
 <!--<img src="Pictures/a_tsne/rt.png" height="120">-->
 
-* N. Pezzotti, B.P.F. Lelieveldt, L. van der Maaten,T. Hollt, E. Eisemann, and A. Vilanova. **Approximated and User Steerable tSNE for Progressive Visual Analytics**. *ArXiv*, 2015. [PDF](http://arxiv.org/pdf/1512.01655v2.pdf)
+* N. Pezzotti, B.P.F. Lelieveldt, L. van der Maaten, T. Höllt, E. Eisemann, and A. Vilanova. **Approximated and User Steerable tSNE for Progressive Visual Analytics**. *ArXiv*, 2015. [PDF](http://arxiv.org/pdf/1512.01655v2.pdf)
 
 <img src="Pictures/dragon_armadillo_buddha.png" height="120">
 <img src="Pictures/protection.png" height="120">
