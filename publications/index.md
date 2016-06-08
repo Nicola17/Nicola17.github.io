@@ -15,7 +15,7 @@ Publications
 <img src="Pictures/2016_hsne/dl.png" height="120">
 </center>
 
-* N. Pezzotti, T. Höllt, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **Hierarchical Stochastic Neighbor Embedding**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](/publications/2016_hsne/preprint.pdf), [Suppl. Mat.](/publications/2016_hsne/experiments.pdf), [Video](/publications/2016_hsne/sun_analysis.mp4)
+* N. Pezzotti, T. Höllt, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **Hierarchical Stochastic Neighbor Embedding**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](/publications/2016_hsne/preprint.pdf), [Suppl. Mat.](/publications/2016_hsne/experiments.pdf), [Video](/publications/2016_hsne/sun_analysis.mp4), [Slides](http://www.slideshare.net/NicolaPezzotti/hierarchical-stochastic-neighbor-embedding)
 
 <center>
 <img src="Pictures/cytosplore.jpg" height="150">
