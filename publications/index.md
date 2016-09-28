@@ -18,13 +18,6 @@ Publications
 * N. Pezzotti, T. Höllt, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **Hierarchical Stochastic Neighbor Embedding**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](/publications/2016_hsne/preprint.pdf), [Suppl. Mat.](/publications/2016_hsne/experiments.pdf), [Video](/publications/2016_hsne/sun_analysis.mp4), [Slides](http://www.slideshare.net/NicolaPezzotti/hierarchical-stochastic-neighbor-embedding)
 
 <center>
-<img src="Pictures/cytosplore.jpg" height="150">
-</center>
-
-* T. Höllt, N. Pezzotti, V. van Unen, F. Koning, E. Eisemann, B.P.F. Lelieveldt, A. Vilanova. **Cytosplore: Interactive Immune Cell Phenotyping for Large Single-Cell Datasets**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](https://graphics.tudelft.nl/Publications-new/2016/HPVKELV16/eurovis16_Cytosplore_Interactive_Immune_Cell_Phenotyping_for_Large_Single-Cell_Datasets.pdf)
-
-
-<center>
 <img src="Pictures/a_tsne/overview.png" height="120">
 <img src="Pictures/a_tsne/aba.png" height="120">
 <!--<img src="Pictures/a_tsne/rt.png" height="120">-->
@@ -32,6 +25,18 @@ Publications
 
 * N. Pezzotti, B.P.F. Lelieveldt, L. van der Maaten, T. Höllt, E. Eisemann, and A. Vilanova. **Approximated and User Steerable tSNE for Progressive Visual Analytics**. *Transaction on Visualization and Computer Graphics (Presented at IEEE VIS 2016)*, 2016. [PDF](2016_AtSNE.pdf), [Suppl. Mat.](https://www.researchgate.net/publication/303305902_A-tSNE_supplemental_materials), [Video I](https://www.researchgate.net/publication/303305958_A-tSNE_Comparison_on_the_MNIST_dataset), [Video II](https://www.researchgate.net/publication/303305906_A-tSNE_Case_Study_I_-_Mouse_Brain), [Video III](https://www.researchgate.net/publication/303305908_A-tSNE_Case_Study_II_-_Data_Stream)
 
+<center>
+<img src="Pictures/cytosplore.jpg" height="150">
+</center>
+
+* T. Höllt, N. Pezzotti, V. van Unen, F. Koning, E. Eisemann, B.P.F. Lelieveldt, A. Vilanova. **Cytosplore: Interactive Immune Cell Phenotyping for Large Single-Cell Datasets**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](https://graphics.tudelft.nl/Publications-new/2016/HPVKELV16/eurovis16_Cytosplore_Interactive_Immune_Cell_Phenotyping_for_Large_Single-Cell_Datasets.pdf)
+
+
+<center>
+<img src="Pictures/renata_va_classifier.png" height="120">
+</center>
+
+* R. Georgia Raidou, H. J. Kuijf, N. Sepasian, N. Pezzotti, W. H Bouvy, M. Breeuwer, A. Vilanova. **Employing Visual Analytics to Aid the Design of White Matter Hyperintensity Classifiers**. *Medical Image Computing and Computer Assisted Intervention (MICCAI 2016)*, 2016. [PDF](https://graphics.tudelft.nl/Publications-new/2016/RKSPBBV16/paper1023.pdf)
 
 2015
 -------
