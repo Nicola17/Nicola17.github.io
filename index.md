@@ -6,12 +6,12 @@ title: Nicola Pezzotti
 About me
 =======================
 
-I'm a PhD student in the [Computer Graphics & Visulization](https://graphics.tudelft.nl/) group at the Delft University of Technology.
-I'm supervised by [Prof. Anna Vilanova](https://graphics.tudelft.nl/anna-vilanova/), my promotor (doctoral advisor) is [Prof. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/) and [Prof. Boudewijn P.F. Lelieveldt](https://www.lumc.nl/org/radiologie/medewerkers/1008040000252222) is my co-promotor.
+I'm a PhD student in the [Computer Graphics & Visualization](https://graphics.tudelft.nl/) group at the Delft University of Technology.
+I'm supervised by [Prof. Anna Vilanova](https://graphics.tudelft.nl/anna-vilanova/), my Promotor (doctoral advisor) is [Prof. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/) and [Prof. Boudewijn P.F. Lelieveldt](https://www.lumc.nl/org/radiologie/medewerkers/1008040000252222) is my co-promotor.
 My research interest is mainly oriented towards the application of Machine Learning algorithms, in particular Manifold Learning and Deep Learning, in a Visual Analytics context.
 I'm also interest in 3D Scanning Technologies and Computational Geometry.
 
-I'm familiar with different programming languages and technologies. I generally work in C++/CUDA for performance reasons, however I'm also familiar with Python, JavaScript and Matlab. 
+I'm familiar with different programming languages and technologies. I generally work in C++/CUDA for performance reasons, however I'm also familiar with OpenGL, Python, JavaScript and Matlab. 
 I strongly believe that high-quality code is of main importance also in academia.
 
 
