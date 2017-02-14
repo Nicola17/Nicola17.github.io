@@ -6,6 +6,18 @@ title: Nicola Pezzotti - Publications
 Publications
 ================
 
+2017
+-------
+
+<center>
+<img src="Pictures/2017_brainscope/brainscope_2.png" height="120">
+<img src="Pictures/2017_brainscope/brainscope_0.png" height="120">
+<img src="Pictures/2017_brainscope/brainscope_1.png" height="120">
+
+</center>
+
+*  S.M.H. Huisman, B. van Lew, A. Mahfouz, N. Pezzotti, T. Höllt, L. Michielsen, A. Vilanova, M.J.T. Reinders, B.P.F. Lelieveldt. **BrainScope: interactive visual exploration of the spatial and temporal human brain transcriptome**. *Nucleic Acids Research*, 2017. [PDF](https://academic.oup.com/nar/article/doi/10.1093/nar/gkx046/2962180/BrainScope-interactive-visual-exploration-of-the#57983578), [Suppl. Mat.](https://www.researchgate.net/publication/313029596_BrainScope_interactive_visual_exploration_of_the_spatial_and_temporal_human_brain_transcriptome)
+
 2016
 -------
 
