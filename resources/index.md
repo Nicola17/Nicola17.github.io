@@ -25,21 +25,25 @@ Reinforcement Learning
 
 Geometry Processing
 -------
-
 * The Computational Geometry Algorithms Library - [CGAL](http://www.cgal.org/).
 * Poisson Surface Reconstruction - [GitHub repo](https://github.com/mkazhdan/PoissonRecon).
 
-
-Algorithms & Data Structures
+Similarity Search
 -------
-
-### Similarity Search
-* Fast Approximate Nearest Neighbors - [FLANN](http://www.cs.ubc.ca/research/flann/).
+* [FAISS](https://github.com/facebookresearch/faiss): Facebook's ANN library.
+* [FLANN](http://www.cs.ubc.ca/research/flann/): Fast Approximate Nearest Neighbors.
 * [NanoFlann](https://github.com/jlblancoc/nanoflann): C++ header-only library for building KD-Trees, mostly optimized for 2D or 3D point clouds.
 * [Introduction](http://infolab.stanford.edu/~ullman/mmds/ch3a.pdf) on *Similarity Search* using *Locality Sensitive Hashing*.
 
+Data Structures
+-------
+* [RoaringBitmaps](http://roaringbitmap.org/): compressed bitsets.
+
 C++
 -------
-
 * [Herb Sutter blog](https://herbsutter.com/).
 * [Guru of the Week](http://www.gotw.ca/gotw/).
+
+Software Engineering
+-------
+* [Catch](https://github.com/philsquared/Catch): a modern, C++-native, header-only, framework for unit-tests, TDD and BDD .
