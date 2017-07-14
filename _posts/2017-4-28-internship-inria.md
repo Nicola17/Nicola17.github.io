@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internship in INRIA
+title: Internship at INRIA/AVIZ
 date: '2017-4-28T00:00:00.000+02:00'
 author: Nicola Pezzotti
 tags:
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-A couple of weeks ago I started by internship in the [INRIA][1]'s research team [AVIZ][2].
+A couple of weeks ago I started by internship at the [INRIA][1]'s research team [AVIZ][2].
 I'm working with the scientific leader of the team, [Jean-Daniele Fekete][3], on the development of efficient data structures that support the progressive analysis of large datasets.
 
 Due to the efficiency requirements of our solution, I'm spending quite some time in optimizing my C++ code.

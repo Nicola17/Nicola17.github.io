@@ -11,7 +11,7 @@ I'm supervised by [Prof. Anna Vilanova](https://graphics.tudelft.nl/anna-vilanov
 My research interest is mainly oriented towards the application of Machine Learning algorithms, in particular Manifold Learning and Deep Learning, in a Visual Analytics context.
 I'm also interest in 3D Scanning Technologies and Computational Geometry.
 
-I'm familiar with different programming languages and technologies. I generally work in C++/CUDA for performance reasons, however I'm also familiar with OpenGL, Python, JavaScript and Matlab. 
+I'm familiar with different programming languages and technologies. I generally work in C++/CUDA for performance reasons, however I'm also familiar with OpenGL, Python, JavaScript and Matlab.
 I strongly believe that high-quality code is of main importance also in academia.
 
 
@@ -19,7 +19,7 @@ Publications
 ================
 A detailed list of my publications can be found at [this page](publications/)
 
-
+* N. Pezzotti, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, and A. Vilanova. **DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2017), 2018. [PDF](), [Video]()
 * N. Pezzotti, T. Höllt, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **Hierarchical Stochastic Neighbor Embedding**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](publications/2016_hsne/preprint.pdf), [Suppl. Mat.](publications/2016_hsne/experiments.pdf), [Video](publications/2016_hsne/sun_analysis.mp4), [Slides](http://www.slideshare.net/NicolaPezzotti/hierarchical-stochastic-neighbor-embedding)
 * T. Höllt, N. Pezzotti, V. van Unen, F. Koning, E. Eisemann, B.P.F. Lelieveldt, A. Vilanova. **Cytosplore: Interactive Immune Cell Phenotyping for Large Single-Cell Datasets**. Computer Graphics Forum (Proc. of EuroVis), 2016. [PDF](https://graphics.tudelft.nl/Publications-new/2016/HPVKELV16/eurovis16_Cytosplore_Interactive_Immune_Cell_Phenotyping_for_Large_Single-Cell_Datasets.pdf)
 * N. Pezzotti, B.P.F. Lelieveldt, L. van der Maaten, T. Höllt, E. Eisemann, and A. Vilanova. **Approximated and User Steerable tSNE for Progressive Visual Analytics**. Transaction on Visualization and Computer Graphics (Presented at IEEE VIS 2016), 2016. [PDF](publications/2016_AtSNE.pdf), [Suppl. Mat.](https://www.researchgate.net/publication/303305902_A-tSNE_supplemental_materials), [Video I](https://www.researchgate.net/publication/303305958_A-tSNE_Comparison_on_the_MNIST_dataset), [Video II](https://www.researchgate.net/publication/303305906_A-tSNE_Case_Study_I_-_Mouse_Brain), [Video III](https://www.researchgate.net/publication/303305908_A-tSNE_Case_Study_II_-_Data_Stream)
@@ -41,9 +41,5 @@ For a full list of blog posts, visit the [Archive](archive/)
 {% endfor %}
 </ul>
 
-I moved the blog from [blogger](http://diaryofatinker.blogspot.nl/) the 5th of October 2015. 
+I moved the blog from [blogger](http://diaryofatinker.blogspot.nl/) the 5th of October 2015.
 Old posts can contain layout problems.
-
-
-
-
