@@ -15,7 +15,7 @@ Publications
 <!--<img src="Pictures/a_tsne/rt.png" height="120">-->
 </center>
 
-* N. Pezzotti, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, and A. Vilanova. **DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2017), 2018. [PDF](), [Video]()
+* N. Pezzotti, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, and A. Vilanova. **DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2017), 2018. [PDF](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/paper216.pdf), [Video](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/file216.avi)
 
 
 
