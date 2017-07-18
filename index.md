@@ -29,6 +29,11 @@ A detailed list of my publications can be found at [this page](publications/)
 * F. Bonarrigo, N. Pezzotti, A. Signoroni. **On-the-fly automatic alignment and global registration of free-path collected 3D scans**. 2013 Digital Heritage International Congress, 2013. [PDF](publications/2013_On-the-fly_automatic_alignment_and_global_registration_of_freepath_collected_3D_scans.pdf)
 * N. Pezzotti, F. Bonarrigo, A. Signoroni. **Boosting the Computational Performance of Feature-Based Multiple 3D Scan Alignment by iat-k-means Clustering**. 3D Imaging, Modeling, Processing, Visualization and Transmission (3DIMPVT), 2012. [PDF](publications/Boosting_the_computational_performance_of_feature_based_multiple_3D_scan_alignment_by_iat_k_means_clustering.pdf)
 
+Awards
+================
+* **2006** - Awarded in "Expo Del capitale umano 2006" for academic merit
+* **2005** - [Silver medal](https://www.olimpiadi-informatica.it/index.php/olimpiadi-italiane-2005.html) in the Italian selection for the *International Olympiad in Informatics* (IOI)
+
 
 Blog Posts
 ===================
@@ -42,4 +47,4 @@ For a full list of blog posts, visit the [Archive](archive/)
 </ul>
 
 I moved the blog from [blogger](http://diaryofatinker.blogspot.nl/) the 5th of October 2015.
-Old posts can contain layout problems.
+Old posts may contain layout problems.
