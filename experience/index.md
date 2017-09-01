@@ -6,42 +6,44 @@ title: Nicola Pezzotti - Publications
 Experience
 ================
 
-PhD Student :: TU Delft :: Sep 2014 - Present
+PhD Student :: TU Delft :: Sep 2014 - August 2018 (expected)
 -------
-I'm a PhD student in the [Computer Graphics & Visualization](https://graphics.tudelft.nl/) group at the Delft University of Technology.
-I'm supervised by [Prof. Anna Vilanova](https://graphics.tudelft.nl/anna-vilanova/), my Promotor (doctoral advisor) is [Prof. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/) and [Prof. Boudewijn P.F. Lelieveldt](https://www.lumc.nl/org/radiologie/medewerkers/1008040000252222) is my co-Promotor.
-My research interest is mainly oriented towards the application of Machine Learning algorithms, in particular Manifold Learning and Deep Learning, in a Visual Analytics context.
 
-R&D Engineer :: Open Technologies S.R.L. :: Oct 2012 - Aug 2014
+
+
+My research consists in the development of scalable manifold-learning algorithms for the analysis of extremely large high-dimensional data, such as medical datasets, social-networks and deep neural networks.
+My algorithms and systems were presented in the most important visual analytics venues and are used by medical researchers for the analysis of real-world data.
+Thanks to the [Hierarchical Stochastic Neighbor Embedding (HSNE)][9] algorithm that I developed, we were able to identify previously unknown immune-system cell types.
+This result was achieved by scaling up the number of cells that could be analyzed with a manifold-learning algorithm from a few thousands to several millions.
+[HSNE][9] is also the cornerstone for [DeepEyes][10], a system for the visual analysis of deep neural networks during training that I developed.
+My algorithms are implemented in a C++ library that will be released later this year.
+
+Visiting PhD Student :: INRIA/AVIZ :: April 2017 - June 2017
 -------
-During these two years I worked in extending my research results into products for Open Technologies S.R.L.
-I was in charge of prototyping the [Insight3][5] high-quality real time scanner which was released as a product at the beginning of 2014.
-To this end, I developed several [Arduino][6]-based systems for the on-board control of the 3D scanner.
-Furthermore, I worked on the development of the computational geometry aspect of the [Open Technologies S.R.L.][1] proprietary library.
 
+Software Engineer :: Open Technologies S.R.L. :: July 2011 - Aug 2014
+-------
+I was responsible of the development of the high-end real-time scanner [Insight3][5]
+I optimized the algorithms developed during my Research Fellowship and developed several [Arduino][6]-based systems for the on-board control of [Insight3][5].
+Furthermore, I contributed to the development of the computational-geometry module of the [Open Technologies S.R.L.][1] proprietary library and I was in charge of the control versioning and the release of the company's main software.
 
 Research Fellow :: University of Brescia :: Oct 2011 - Oct 2012
 -------
-My research fellowship at the University of Brescia was funded by [Open Technologies S.R.L.][1]
-During this year I developed proprietary algorithms for the real-time computation of implicit surfaces.
-These algorithms are designed to work with of the shelf real-time scanning devices like the [Microsoft Kinect][2] and the [PrimeSense Carmine/Capri][3] making use of the [OpenNI][4] toolkit.
-Furthermore, I started the development of a proprietary passive stereo system that led to the creation of the [Insight3][5] high-quality real-time scanner.
-
-R&D Engineer :: Open Technologies S.R.L. :: Jul 2011 - Oct 2011
--------
-I implemented the algorithms presented in my master thesis in the [Open Technologies][1] software library.
-These improvements were integrated in the upcoming release of [Open Technologies][1]'s software, Optical RevEng 2.0.
+I developed proprietary algorithms for the real-time computation of implicit surfaces on the GPU.
+These algorithms are designed to work with {off-the-shelf} and real-time scanning devices like the [Microsoft Kinect][2] and the [PrimeSense Carmine/Capri][3].
+Furthermore, I devised a proprietary passive stereo system that led to the development of the [Insight3][5] high-quality real-time scanner.
+Due to the strict real-time requirements all the developed algorithms were implemented in C++, CUDA and Thrust.
 
 Master Thesis :: Open Technologies S.R.L. :: Mar 2011 - Jul 2011
 -------
-During my master thesis I worked on the development of fast and automatic tools for the alignment of 3D data, e.g., point clouds, meshes and range images.
-This work was done in collaboration with [Open Technologies S.R.L.][1]
-The final grade is 110/110.
+During my master thesis I worked on the development of fast and automatic tools for the alignment of 3D data such as point clouds, meshes and range images.
+This work was done in collaboration with the company [Open Technologies S.R.L.][1]
+I graduated with a final grade of 110/110.
 
 Bachelor Thesis :: G2L S.R.L. :: Mar 2008 - Jul 2008
 -------
-During my bachelor thesis I developed a library for the interprocess communication between real-time applications working in [Linux-Xenomai][7] and other Linux applications.
-This work was done in collaboration with [G2L S.R.L.][8]
+During my bachelor thesis I developed a library for interprocess communication between real-time applications working in [Linux-Xenomai][7] and other Linux applications.
+This work was done in collaboration with the company [G2L S.R.L.][8]
 
 
 [1]: http://www.scanner3d.it/en/
@@ -52,3 +54,5 @@ This work was done in collaboration with [G2L S.R.L.][8]
 [6]: https://www.arduino.cc/
 [7]: https://xenomai.org/
 [8]: http://www.g2l-automazione.it/english/company.html
+[9]: https://graphics.tudelft.nl/Publications-new/2016/PHLEV16/hsne.pdf
+[10]: https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/paper216.pdf
