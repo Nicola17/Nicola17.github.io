@@ -15,12 +15,27 @@ Publications
 <!--<img src="Pictures/a_tsne/rt.png" height="120">-->
 </center>
 
-* N. Pezzotti, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, and A. Vilanova. **DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2017), 2018. [PDF](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/paper216.pdf), [Video](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/file216.avi)
+* N. Pezzotti, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2017), 2018. [PDF](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/paper216.pdf), [Video](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/file216.avi)
+
+
+<center>
+<img src="Pictures/2018_cyteguide/cyteguide.png" height="200">
+<!--<img src="Pictures/2018_cyteguide/detail.png" height="160">-->
+
+</center>
+
+* T. Höllt, N. Pezzotti, V. van Unen, F. Koning, B.P.F. Lelieveldt, A. Vilanova. **CyteGuide: Visual Guidance for Hierarchical Single-Cell Analysis**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2017), 2018. [Website](https://cyteguide.cytosplore.org/)
 
 
 
 2017
 -------
+
+<center>
+<img src="Pictures/nature_comm_hsne.png" height="300">
+</center>
+
+* V. van Unen\*, T. Hollt\*, N. Pezzotti\*, N. Li, M. J.T. Reinders, E. Eisemann, A. Vilanova, F. Koning, B. P.F. Lelieveldt. **Interactive Visual Analysis of Mass Cytometry Data by Hierarchical Stochastic Neighbor Embedding Reveals Rare Cell Types**. to appear in Nature Communications, 201X. [PDF](https://www.biorxiv.org/content/early/2017/09/13/169888)
 
 <center>
 <img src="Pictures/a_tsne/overview.png" height="120">
