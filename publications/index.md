@@ -35,7 +35,7 @@ Publications
 <img src="Pictures/nature_comm_hsne.png" height="300">
 </center>
 
-* V. van Unen\*, T. Hollt\*, N. Pezzotti\*, N. Li, M. J.T. Reinders, E. Eisemann, A. Vilanova, F. Koning, B. P.F. Lelieveldt. **Interactive Visual Analysis of Mass Cytometry Data by Hierarchical Stochastic Neighbor Embedding Reveals Rare Cell Types**. to appear in XXX, 201X. [PDF](https://www.biorxiv.org/content/early/2017/09/13/169888)
+* V. van Unen\*, T. Hollt\*, N. Pezzotti\*, N. Li, M. J.T. Reinders, E. Eisemann, A. Vilanova, F. Koning, B. P.F. Lelieveldt. **Interactive Visual Analysis of Mass Cytometry Data by Hierarchical Stochastic Neighbor Embedding Reveals Rare Cell Types**. Nature Communications, 2017. [Website](https://www.nature.com/articles/s41467-017-01689-9) [PDF](https://www.nature.com/articles/s41467-017-01689-9.pdf)
 
 <center>
 <img src="Pictures/a_tsne/overview.png" height="120">
