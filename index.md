@@ -11,7 +11,7 @@ I'm supervised by [Prof. Anna Vilanova](https://graphics.tudelft.nl/anna-vilanov
 My research interest is mainly oriented towards the application of Machine Learning algorithms, in particular Manifold Learning and Deep Learning, in a Visual Analytics context.
 I'm also interest in 3D Scanning Technologies and Geometry Processing.
 
-I'm familiar with different programming languages and technologies. I generally work in C++/CUDA for performance reasons, however I'm also familiar with OpenGL, Python, JavaScript and Matlab.
+I'm familiar with different programming languages and technologies. I generally work in C++/CUDA for performance reasons, however I'm also familiar with [Open|Web]GL, Python, TypeScript, JavaScript and Matlab.
 I strongly believe that high-quality code is of main importance also in academia.
 
 
