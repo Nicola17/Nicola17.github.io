@@ -112,4 +112,4 @@ Publications
 <img src="Pictures/comp_time.png" height="120">
 </center>
 
-* N. Pezzotti, F. Bonarrigo, A. Signoroni. **Boosting the Computational Performance of Feature-Based Multiple 3D Scan Alignment by iat-k-means Clustering**. 3D Imaging, Modeling, Processing, Visualization and Transmission (3DIMPVT). [PDF](Boosting_the_computational_performance_of_feature_based_multiple_3D_scan_alignment_by_iat_k_means_clustering.pdf)
+* N. Pezzotti, F. Bonarrigo, A. Signoroni. **Boosting the Computational Performance of Feature-Based Multiple 3D Scan Alignment by iat-k-means Clustering**. 3D Imaging, Modeling, Processing, Visualization and Transmission (3DIMPVT, now 3DV). [PDF](Boosting_the_computational_performance_of_feature_based_multiple_3D_scan_alignment_by_iat_k_means_clustering.pdf)
