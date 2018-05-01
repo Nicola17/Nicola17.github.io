@@ -6,20 +6,25 @@ title: Nicola Pezzotti - Publications
 Experience
 ================
 
-PhD Student :: TU Delft :: Sep 2014 - August 2018 (expected)
+Software Engineer Intern in Research :: Google :: February 2018 - May 2018 (expected)
 -------
+I work with Alexander Mordvintsev, the creator of Google's [DeepDream](https://it.wikipedia.org/wiki/Deep_Dream) project, on the interpretability of Deep Neural Networks.
+I am with the research group on Machine Intelligence in Zürich and I am collaborating remotely with [Google Brain](https://research.google.com/teams/brain/) ang [Google Big Picture](https://research.google.com/bigpicture/) teams.
 
 
+PhD Student :: TU Delft :: September 2014 - November 2018 (expected)
+-------
 
 My research consists in the development of scalable manifold-learning algorithms for the analysis of extremely large high-dimensional data, such as medical datasets, social-networks and deep neural networks.
 My algorithms and systems were presented in the most important visual analytics venues and are used by medical researchers for the analysis of real-world data.
 Thanks to the [Hierarchical Stochastic Neighbor Embedding (HSNE)][9] algorithm that I developed, we were able to identify previously unknown immune-system cell types.
 This result was achieved by scaling up the number of cells that could be analyzed with a manifold-learning algorithm from a few thousands to several millions.
 [HSNE][9] is also the cornerstone for [DeepEyes][10], a system for the visual analysis of deep neural networks during training that I developed.
-My algorithms are implemented in a C++ library that will be released later this year.
+My algorithms are implemented in C++ and are released as part of the [High-Dimensional-Inspector](https://github.com/Nicola17/High-Dimensional-Inspector) library.
 
 Visiting PhD Student :: INRIA/AVIZ :: April 2017 - June 2017
 -------
+I worked with professor [Jean-Daniel Fekete](https://en.wikipedia.org/wiki/Jean-Daniel_Fekete) on the development of the Progressive Visual Analytics paradigm for the analysis of large data collections.
 
 Software Engineer :: Open Technologies S.R.L. :: July 2011 - Aug 2014
 -------
