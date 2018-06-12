@@ -54,18 +54,3 @@ Awards
 ================
 * **2006** - Awarded in "Expo Del capitale umano 2006" for academic merit
 * **2005** - [Silver medal](https://www.olimpiadi-informatica.it/index.php/olimpiadi-italiane-2005.html) in the Italian selection for the *International Olympiad in Informatics* (IOI)
-
-
-Blog Posts
-===================
-
-For a full list of blog posts, visit the [Archive](archive/)
-
-<ul>
-{% for post in site.posts limit:5 %}
-     <li>{{ post.date | date_to_string }} - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
-I moved the blog from [blogger](http://diaryofatinker.blogspot.nl/) the 5th of October 2015.
-Old posts may contain layout problems.
