@@ -6,25 +6,24 @@ title: Nicola Pezzotti - Publications
 Experience
 ================
 
-Software Engineer Intern in Research :: Google :: February 2018 - May 2018 (expected)
+Software Engineer Intern in Research :: Google :: February 2018 - June 2018
 -------
 I work with Alexander Mordvintsev, the creator of Google's [DeepDream](https://it.wikipedia.org/wiki/Deep_Dream) project, on the interpretability of Deep Neural Networks.
-I am with the research group on Machine Intelligence in Zürich and I am collaborating remotely with [Google Brain](https://research.google.com/teams/brain/) ang [Google Big Picture](https://research.google.com/bigpicture/) teams.
+I developed a scalable manifold-learning optimization approach that is used for analyzing the output of deep neural networks directly in the web browser.
+My work is released as a [library](https://github.com/tensorflow/tfjs-tsne)in the TensorFlow.js family and featured on the [Google AI Blog](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html).
 
+Visiting PhD Student :: INRIA/AVIZ :: April 2017 - June 2017
+-------
+I worked with professor [Jean-Daniel Fekete](https://en.wikipedia.org/wiki/Jean-Daniel_Fekete) on the development of the Progressive Visual Analytics paradigm for the analysis of large data collections. This work powered analytics system for the analysis of deep learning models and large networks.
 
 PhD Student :: TU Delft :: September 2014 - November 2018 (expected)
 -------
-
 My research consists in the development of scalable manifold-learning algorithms for the analysis of extremely large high-dimensional data, such as medical datasets, social-networks and deep neural networks.
 My algorithms and systems were presented in the most important visual analytics venues and are used by medical researchers for the analysis of real-world data.
 Thanks to the [Hierarchical Stochastic Neighbor Embedding (HSNE)][9] algorithm that I developed, we were able to identify previously unknown immune-system cell types.
 This result was achieved by scaling up the number of cells that could be analyzed with a manifold-learning algorithm from a few thousands to several millions.
 [HSNE][9] is also the cornerstone for [DeepEyes][10], a system for the visual analysis of deep neural networks during training that I developed.
 My algorithms are implemented in C++ and are released as part of the [High-Dimensional-Inspector](https://github.com/Nicola17/High-Dimensional-Inspector) library.
-
-Visiting PhD Student :: INRIA/AVIZ :: April 2017 - June 2017
--------
-I worked with professor [Jean-Daniel Fekete](https://en.wikipedia.org/wiki/Jean-Daniel_Fekete) on the development of the Progressive Visual Analytics paradigm for the analysis of large data collections.
 
 Software Engineer :: Open Technologies S.R.L. :: July 2011 - Aug 2014
 -------
@@ -39,13 +38,13 @@ These algorithms are designed to work with {off-the-shelf} and real-time scannin
 Furthermore, I devised a proprietary passive stereo system that led to the development of the [Insight3][5] high-quality real-time scanner.
 Due to the strict real-time requirements all the developed algorithms were implemented in C++, CUDA and Thrust.
 
-Master Thesis :: Open Technologies S.R.L. :: Mar 2011 - Jul 2011
+Master Thesis Intern :: Open Technologies S.R.L. :: Jan 2011 - Jul 2011
 -------
 During my master thesis I worked on the development of fast and automatic tools for the alignment of 3D data such as point clouds, meshes and range images.
 This work was done in collaboration with the company [Open Technologies S.R.L.][1]
 I graduated with a final grade of 110/110.
 
-Bachelor Thesis :: G2L S.R.L. :: Mar 2008 - Jul 2008
+Bachelor Thesis Intern :: G2L S.R.L. :: Jul 2008 - Dec 2008
 -------
 During my bachelor thesis I developed a library for interprocess communication between real-time applications working in [Linux-Xenomai][7] and other Linux applications.
 This work was done in collaboration with the company [G2L S.R.L.][8]
