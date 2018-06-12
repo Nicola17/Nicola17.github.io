@@ -11,24 +11,24 @@ Publications
 <center>
 <img src="Pictures/waow_vis.png">
 </center>
-N. Pezzotti, JD Fekete, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova.
+* N. Pezzotti, JD Fekete, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova.
 **Multiscale Visualization and Exploration of Large Bipartite Graphs**, Computer Graphics Forum (Proc. of EuroVis), 2018.
 [PDF](https://hal.inria.fr/hal-01787046/document), [Video](https://youtu.be/wdJyvitvFkk).
 
 <center>
 <img src="Pictures/texture_tsne.png" height="180">
 </center>
-N. Pezzotti, A. Mordvintsev, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova.
+* N. Pezzotti, A. Mordvintsev, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova.
 **Linear tSNE optimization for the Web**, ArXiV preprint, 2018.
 [PDF](https://arxiv.org/abs/1805.10817), [Demo](https://nicola17.github.io/tfjs-tsne-demo/), [Google AI post](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html)
 
-N. Li, V. van Unen, T. Höllt, A. Thompson, J. van Bergen, N. Pezzotti, E. Eisemann, A. Vilanova, S. Chuva de Sousa Lopes, B. Lelieveldt, F. Koning
+* N. Li, V. van Unen, T. Höllt, A. Thompson, J. van Bergen, N. Pezzotti, E. Eisemann, A. Vilanova, S. Chuva de Sousa Lopes, B. Lelieveldt, F. Koning
 **Mass cytometry reveals innate lymphoid cell differentiation pathways in the human fetal intestine**, Journal of Experimental Medicine, 2018.
 
 <center>
 <img src="Pictures/hsne_proteome.png" height="180">
 </center>
-W.M. Abdelmoula, N. Pezzotti, T. Hölt, J. Dijkstra, A. Vilanova, L. A. McDonnell, B. P.F. Lelieveldt. **Interactive Visual Exploration of 3D Mass Spectrometry Imaging Data Using Hierarchical Stochastic Neighbor Embedding Reveals Spatiomolecular Structures at Full Data Resolution**. Journal of Proteome Research, 2018. [PDF](https://graphics.tudelft.nl/Publications-new/2018/APHDVML18/pdf.pdf)
+* W.M. Abdelmoula, N. Pezzotti, T. Hölt, J. Dijkstra, A. Vilanova, L. A. McDonnell, B. P.F. Lelieveldt. **Interactive Visual Exploration of 3D Mass Spectrometry Imaging Data Using Hierarchical Stochastic Neighbor Embedding Reveals Spatiomolecular Structures at Full Data Resolution**. Journal of Proteome Research, 2018. [PDF](https://graphics.tudelft.nl/Publications-new/2018/APHDVML18/pdf.pdf)
 
 <center>
 <img src="Pictures/2018_deep_eyes/teaser.png" height="180">
