@@ -30,7 +30,7 @@ TensorFlow.js tSNE
 [Comment]: <>(![TensorFlow.js Logo](/images/tfjs_logo.png))
 
 [tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) is a module of the [TensorFlow.js](https://js.tensorflow.org/) library that implements the tSNE algorithm.
-tfjs-tsne makes use of a [WebGL trick](https://arxiv.org/abs/1805.10817) to accelerate the gradient computation and the can be run in the client side of the web browser. Check out the [demo](https://nicola17.github.io/tfjs-tsne-demo/) on the MNIST dataset.
+tfjs-tsne makes use of a [WebGL trick](https://arxiv.org/abs/1805.10817) to accelerate the gradient computation and the can be run in the client side of the web browser. Check out the [demo](https://nicola17.github.io/tfjs-tsne-demo/) on the MNIST dataset. This project featured on the [Google AI Blog](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html).
 
 Cytosplore
 ----
