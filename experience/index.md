@@ -6,9 +6,9 @@ title: Nicola Pezzotti - Publications
 Experience
 ================
 
-Software Engineer Intern in Research :: Google :: February 2018 - June 2018
+Software Engineering Intern in Research :: Google :: February 2018 - June 2018
 -------
-I work with Alexander Mordvintsev, the creator of Google's [DeepDream](https://it.wikipedia.org/wiki/Deep_Dream) project, on the interpretability of Deep Neural Networks.
+I worked with Alexander Mordvintsev, the creator of Google's [DeepDream](https://it.wikipedia.org/wiki/Deep_Dream) project, on the interpretability of Deep Neural Networks.
 I developed a scalable manifold-learning optimization approach that is used for analyzing the output of deep neural networks directly in the web browser.
 My work is released as a [library](https://github.com/tensorflow/tfjs-tsne)in the TensorFlow.js family and featured on the [Google AI Blog](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html).
 
