@@ -6,17 +6,31 @@ title: Nicola Pezzotti - Publications
 Experience
 ================
 
-Software Engineer Intern in Research :: Google :: February 2018 - June 2018
+Research Scientist :: Philips Research :: November 2018 - Present
+-------
+
+I develop cutting edge AI technology to improve people's lives.
+I set up research collaborations, with internal and external partners, to address challenging problems in healthcare.
+
+Responsibilities in 2019:
+
+* Set up research collaborations with several external parties, including LUMC, UvA, AUMC, Radboud UMC and NKI for the participation in the FastMRI challenge. [The two teams won all challenge tracks](https://ai.facebook.com/blog/results-of-the-first-fastmri-image-reconstruction-challenge/)
+* Lead the AI development for the FastMRI challenge, in a close collaboration with the Philips BIU MR and LUMC. Our team [won all multi-coil tracks in the challenge](https://ai.facebook.com/blog/results-of-the-first-fastmri-image-reconstruction-challenge/)
+* Joined the [Kickstart-AI](https://www.kickstartai.nl/) initiative, to set up a joint-appointment program between universities and industrial partners
+* Joined the program committee of the Philips conference on AI
+
+Research Intern :: Google :: February 2018 - June 2018
 -------
 I work with Alexander Mordvintsev, the creator of Google's [DeepDream](https://it.wikipedia.org/wiki/Deep_Dream) project, on the interpretability of Deep Neural Networks.
-I developed a scalable manifold-learning optimization approach that is used for analyzing the output of deep neural networks directly in the web browser.
-My work is released as a [library](https://github.com/tensorflow/tfjs-tsne)in the TensorFlow.js family and featured on the [Google AI Blog](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html).
+I developed a [scalable manifold-learning optimization approach](https://nicola17.github.io/tfjs-tsne-demo/) that is used for analyzing the output of deep neural networks directly in the web browser.
+My work is released as a [library](https://github.com/tensorflow/tfjs-tsne) in the TensorFlow.js family, it featured on the [Google AI Blog](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html) and among [Google AI's research effort in 2019](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html).
+Moreover, I published a Distill.pub article on [neural network interpretability and generative properties](https://distill.pub/2018/differentiable-parameterizations/).
 
 Visiting PhD Student :: INRIA/AVIZ :: April 2017 - June 2017
 -------
 I worked with professor [Jean-Daniel Fekete](https://en.wikipedia.org/wiki/Jean-Daniel_Fekete) on the development of the Progressive Visual Analytics paradigm for the analysis of large data collections. This work powered analytics system for the analysis of deep learning models and large networks.
 
-PhD Student :: TU Delft :: September 2014 - November 2018 (expected)
+PhD Student :: TU Delft :: September 2014 - October 2018
 -------
 My research consists in the development of scalable manifold-learning algorithms for the analysis of extremely large high-dimensional data, such as medical datasets, social-networks and deep neural networks.
 My algorithms and systems were presented in the most important visual analytics venues and are used by medical researchers for the analysis of real-world data.
