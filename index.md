@@ -53,6 +53,7 @@ News
 * **15 Jan 2019** - My work feature on [Google AI's research effort in 2019](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html)
 * **10 Jan 2019** - I featured in [Portraits of Science 2018](https://tu-delft.instantmagazine.com/tu-delft/portraits-2018#!/home), a showcase of research excellence at TU Delft. You can read my interview [here](https://tu-delft.instantmagazine.com/tu-delft/portraits-2018#!/nicola-pezzotti-interview-en).
 * **25 Jul 2018** - Published a [Distill.pub](https://distill.pub) article on [neural network interpretability and generative properties](https://distill.pub/2018/differentiable-parameterizations/)
+* **25 Jul 2018** - My work at Google [is presented in Nodes](https://www.tudelft.nl/en/eemcs/current/nodes/stories/organizing-high-dimensional-data-with-triangles-and-fields/), the research blog of TU Delft faculty of computer science
 * **7 Jun 2018** - My work on GPGPU tSNE featured on the [Google AI research blog](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html)
 * **2 Feb 2018** - I joined [Google AI](https://ai.google/) in Zurich as a research intern
 
