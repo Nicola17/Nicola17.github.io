@@ -40,6 +40,8 @@ Awards
 News
 ================
 
+* **29 Mar 2020** - I joined the program committee of ECML-PKDD 2020
+* **15 Feb 2020** - I received the Outstanding Achievement Award 2020 from Philips
 * **14 Jan 2020** - I started a joint appointment as Assistant Professor at Eindhoven University of Technology - [Announcement](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2020/20200213-philips-and-ahold-delhaize-announce-first-kickstart-ai-joint-appointments.html?fbclid=IwAR29fh6N8a7TO8YMs8tpnI4b47eosGn_qUyEJrJ1B-TDOfLjNDktV8jiL0g)
 * **14 Dec 2019** - At NeurIPS, I presented our winning solution in the FastMRI challenge -  [Recordings](https://slideslive.com/38922093/medical-imaging-meets-neurips-4)
 * **01 Dec 2019** - Facebook AI Research announced that [our team won all multi-coil tracks in the FastMRI challenge](https://ai.facebook.com/blog/results-of-the-first-fastmri-image-reconstruction-challenge/)
