@@ -40,6 +40,7 @@ Awards
 News
 ================
 
+* **14 May 2020** - I presented a workshop on AI and its influence on the workplace at LCB 2020
 * **29 Mar 2020** - I joined the program committee of ECML-PKDD 2020
 * **15 Feb 2020** - I received the Outstanding Achievement Award 2020 from Philips
 * **14 Jan 2020** - I started a joint appointment as Assistant Professor at Eindhoven University of Technology - [Announcement](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2020/20200213-philips-and-ahold-delhaize-announce-first-kickstart-ai-joint-appointments.html?fbclid=IwAR29fh6N8a7TO8YMs8tpnI4b47eosGn_qUyEJrJ1B-TDOfLjNDktV8jiL0g)
