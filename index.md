@@ -28,6 +28,7 @@ A detailed list of my publications can be found on my [Google Scholar page](http
 
 Awards
 ================
+* **2020** - Recepient of the Outstanding Achievement Award at Philips Research
 * **2019** - Winner of the first FastMRI challenge organized by Facebook AI Research and NYU Langone Health - [Results](https://ai.facebook.com/blog/results-of-the-first-fastmri-image-reconstruction-challenge/), [Philips Research Blog](https://www.philips.com/a-w/research/blog/20191220-teamwork-makes-the-dream-work-how-a-co-research-approach-tackles-mri-challenges-with-ai.html),  [Recordings](https://slideslive.com/38922093/medical-imaging-meets-neurips-4)
 * **2019** - [IEEE VGTC 2019 Best Dissertation Award](http://vacommunity.org/ieeevpg/bestthesis/)
 * **2019** - [Dirk Bartz Prize](https://www.eurographics2019.it/index.php/program/dirk_bartz_prize/) for Visual Computing in Medicine
