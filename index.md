@@ -41,6 +41,8 @@ Awards
 News
 ================
 
+* **24 Jul 2020** - Published a [white paper in collaboration with Intel](https://www.intel.com/content/www/us/en/artificial-intelligence/solutions/openvino-philips-compressed-sensing-image-reconstruction-algorithms.html?wapkw=philips) on how OpenVINO can be used to optimize and deploy our winning fastMRI model
+* **16 Jun 2020** - In collaboration with Shi Hu and [Max Welling](https://staff.fnwi.uva.nl/m.welling/), [published a pre-print](https://arxiv.org/pdf/2002.05582.pdf) on the uncertainty quantification of deep ensembles
 * **14 May 2020** - I presented a workshop on AI and its influence on the workplace at LCB 2020
 * **29 Mar 2020** - I joined the program committee of ECML-PKDD 2020
 * **15 Feb 2020** - I received the Outstanding Achievement Award 2020 from Philips
