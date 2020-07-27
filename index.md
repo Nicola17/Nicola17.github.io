@@ -42,6 +42,7 @@ News
 ================
 
 * **24 Jul 2020** - Published a [white paper in collaboration with Intel](https://www.intel.com/content/www/us/en/artificial-intelligence/solutions/openvino-philips-compressed-sensing-image-reconstruction-algorithms.html?wapkw=philips) on how OpenVINO can be used to optimize and deploy our winning fastMRI model
+* **22 Jul 2020** - [Certified Product Owner & Product Manager](https://www.youracclaim.com/badges/2efbeb52-9aca-470b-97b9-054c2291d8a5/linked_in) for SAFe
 * **16 Jun 2020** - In collaboration with Shi Hu and [Max Welling](https://staff.fnwi.uva.nl/m.welling/), [published a pre-print](https://arxiv.org/pdf/2002.05582.pdf) on the uncertainty quantification of deep ensembles
 * **14 May 2020** - I presented a workshop on AI and its influence on the workplace at LCB 2020
 * **14 Apr 2020** - Published the [pre-print](https://arxiv.org/pdf/2004.07339.pdf) describing our winning model in the fastMRI challenge
