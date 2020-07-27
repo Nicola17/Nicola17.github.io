@@ -50,7 +50,8 @@ News
 * **14 Nov 2019** - [Published a work]([https://link.springer.com/chapter/10.1007/978-3-030-35817-4_6) on fingerprinting dictionaries via dimensionality reduction
 * **24 Oct 2019** - I presented our work on [GPGPU linear complexity tSNE](https://nicola17.github.io/tfjs-tsne-demo/) at IEEE VIS 2019
 * **22 Oct 2019** - I was awarded the [IEEE VGTC Best Dissertation Award 2019](http://vacommunity.org/ieeevpg/bestthesis/) at IEEE VIS 2019
-* **10 Oct 2019** - The [Kickstart-AI](https://www.kickstartai.nl/) initiative was [officially announced](https://www.globenewswire.com/news-release/2019/10/10/1927666/0/en/Five-Dutch-companies-to-further-boost-Artificial-Intelligence-in-the-Netherlands.html) at the [World Summit AI](https://worldsummit.ai/). I am part of the team supporting the creation of joint-appointments between industry and academia.  
+* **10 Oct 2019** - The [Kickstart-AI](https://www.kickstartai.nl/) initiative was [officially announced](https://www.globenewswire.com/news-release/2019/10/10/1927666/0/en/Five-Dutch-companies-to-further-boost-Artificial-Intelligence-in-the-Netherlands.html) at the [World Summit AI](https://worldsummit.ai/). I am part of the team supporting the creation of joint-appointments between industry and academia. 
+* **04 Oct 2019** - I joined the program committee of IAAI-20
 * **07 May 2019** - Received, together with the Cytosplore team, the [Dirk Bartz prize](https://www.eurographics2019.it/index.php/program/dirk_bartz_prize/) for visual computing in medicine.
 * **12 Apr 2019** - I received my PhD Cum Laude with the dissertation *Dimensionality-Reduction Algorithms for Progressive Visual Analytics*
 * **21 Mar 2019** - I gave a talk on *Interpretable AI* at the [Delft-AI Meetup](https://www.meetup.com/Delft-AI-Meetup/events/256563603/)
