@@ -41,6 +41,7 @@ Awards
 News
 ================
 
+* **01 Oct 2020** - I joined the program committee of IAAI-21
 * **29 Sep 2020** - Speaker at the panel "AI and the Future of Humankind" at the Czech Innovation Week 2020.
 * **24 Jul 2020** - Published a [white paper in collaboration with Intel](https://www.intel.com/content/www/us/en/artificial-intelligence/solutions/openvino-philips-compressed-sensing-image-reconstruction-algorithms.html?wapkw=philips) on how OpenVINO can be used to optimize and deploy our winning fastMRI model
 * **22 Jul 2020** - [Certified Product Owner & Product Manager](https://www.youracclaim.com/badges/2efbeb52-9aca-470b-97b9-054c2291d8a5/linked_in) for SAFe
