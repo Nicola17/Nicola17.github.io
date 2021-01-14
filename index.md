@@ -13,7 +13,7 @@ I do not focus only on fundamental research, but also on the development of larg
 After my master, I worked for more than three years in an [Italian start-up](https://www.opentechnologies.it/en/home-2/) developing 3D scanners, now acquired by [FARO](https://www.faro.com), as research & development engineer and as research fellow at the [University of Brescia](https://en.unibs.it/).
 I received my PhD Cum Laude from [Delft University of Technology](https://www.tudelft.nl/) in the [Computer Graphics & Visualization](https://graphics.tudelft.nl/) group, in close collaboration with the [Division of Image-Processing](https://www.lumc.nl/org/radiologie/research/LKEB/) at [Leiden University Medical Center](https://www.lumc.nl/).
 During the PhD I joined [INRIA Saclay](https://aviz.fr/) as Visiting Scientist, and I worked at [Google AI](https://ai.google/) with Alexander Mordvintsev, the creator of Google's DeepDream. At Google, I published two research papers and developed an open source library released in the [TensorFlow.js family](https://github.com/tensorflow/tfjs-tsne).
-I currently work at [Philips Research](https://www.philips.com/content/corporate/en_AA/research/home.html/), focusing on the development of reliable and human-centered Artificial-Intelligence solutions for healthcare.
+I currently work at [Philips Research](https://www.philips.com/content/corporate/en_AA/research/home.html/), with a joint appointment as Assistant Professor at Eindhoven University of Technology, focusing on the development of reliable and human-centered Artificial-Intelligence solutions for healthcare.
 
 Selected Publications
 ================
@@ -28,7 +28,10 @@ A detailed list of my publications can be found on my [Google Scholar page](http
 
 Awards
 ================
-* **2020** - Recepient of the Outstanding Achievement Award at Philips Research
+* **2020** - Philips Innovation Award: tools and techniques for Deep Learning and trustworthy AI 
+* **2020** - Best Scientific Paper Award in Computer Vision - Philips AI Conference
+* **2020** - Highest Business Potential Award in Computer Vision - Philips AI conference 
+* **2020** - Recipient of the Outstanding Achievement Award at Philips Research
 * **2019** - Winner of the first FastMRI challenge organized by Facebook AI Research and NYU Langone Health - [Results](https://ai.facebook.com/blog/results-of-the-first-fastmri-image-reconstruction-challenge/), [Philips Research Blog](https://www.philips.com/a-w/research/blog/20191220-teamwork-makes-the-dream-work-how-a-co-research-approach-tackles-mri-challenges-with-ai.html),  [Recordings](https://slideslive.com/38922093/medical-imaging-meets-neurips-4)
 * **2019** - [IEEE VGTC 2019 Best Dissertation Award](http://vacommunity.org/ieeevpg/bestthesis/)
 * **2019** - [Dirk Bartz Prize](https://www.eurographics2019.it/index.php/program/dirk_bartz_prize/) for Visual Computing in Medicine
