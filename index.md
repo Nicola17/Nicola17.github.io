@@ -6,14 +6,22 @@ title: Nicola Pezzotti
 About me
 =======================
 
+I am a scientist, engineer, and leader, with a diverse set of interests, focusing on the development of algorithmic techniques and solutions that have a concrete and positive impact on the world.
 
-I am a Research Scientist focusing on the development of algorithmic solutions for Artificial-Intelligence and Visual-Analytics. My algorithms and tools are used in several research groups and led to discoveries presented in important venues such as "Nature Communications", "Nature Immunology" and the "Journal of Experimental Medicine".
-I do not focus only on fundamental research, but also on the development of large, scalable and stable software and its path to useful products.
+As a scientist, I develop several algorithmic solutions that led to discoveries presented in important venues such as "Nature Communications", "Nature Immunology" and the "Journal of Experimental Medicine".
+My work in single-cell analysis, led to the discovery of previously unknown cell types, thanks to the development of scalable dimensionality reduction approaches. I also lead large-scale research activities, such as the AI4MRI lab between Philips and LUMC. I enjoy working on complex and previously unsolved problems, with a drive for excellence
 
-After my master, I worked for more than three years in an [Italian start-up](https://www.opentechnologies.it/en/home-2/) developing 3D scanners, now acquired by [FARO](https://www.faro.com), as research & development engineer and as research fellow at the [University of Brescia](https://en.unibs.it/).
-I received my PhD Cum Laude from [Delft University of Technology](https://www.tudelft.nl/) in the [Computer Graphics & Visualization](https://graphics.tudelft.nl/) group, in close collaboration with the [Division of Image-Processing](https://www.lumc.nl/org/radiologie/research/LKEB/) at [Leiden University Medical Center](https://www.lumc.nl/).
-During the PhD I joined [INRIA Saclay](https://aviz.fr/) as Visiting Scientist, and I worked at [Google AI](https://ai.google/) with Alexander Mordvintsev, the creator of Google's DeepDream. At Google, I published two research papers and developed an open source library released in the [TensorFlow.js family](https://github.com/tensorflow/tfjs-tsne).
-I currently work at [Philips Research](https://www.philips.com/content/corporate/en_AA/research/home.html/), with a joint appointment as Assistant Professor at Eindhoven University of Technology, focusing on the development of reliable and human-centered Artificial-Intelligence solutions for healthcare.
+As an engineer, I implement solutions that are scalable and proven to work well in the real world.
+In my career, I have covered a diverse set of topics including industrial automation, computer vision, 3D reconstruction and processing, machine learning, deep learning, and artificial intelligence in general. I had success on all of them thanks to a key focus on software excellence and a fast-delivery mindset. As an example, I drove our Philips team to win the fastMRI challenge and convert it into our FDA-approved SmartSpeed product in less than 3 years, while training our staff on hybrid deep learning. Also, my contributions to 3D scanning technology were instrumental in the acquisition of the OpenTechnology startup by FARO.
+
+As a leader, I drive teams to success thanks to a win-win and agile mindset. 
+I led very diverse teams, from very junior to senior teams, from small ones to teams of more than 15 people, and from engineering to research-focused teams. I am experienced in driving teams both in my organization and across organizations. For example, I drive several public-private partnerships leveraging my joint appointment as an assistant professor at TU Eindhoven.
+
+I worked in a diverse set of environments. I have several years of experience in freelancing, startup to scaleup, big tech, the healthcare industry, and publicly funded research institutions.
+I worked at Google AI with Alexander Mordvintsev, the creator of Google's DeepDream, where I was recognized as one of the best research efforts in 2018. I currently work at Philips Research, focusing on the development of robust Artificial-Intelligence solutions for healthcare. I also have a joint appointment as an assistant professor at TU Eindhoven, focusing on human-centered AI, and I collaborate with several research groups across the world.
+
+More information, and links to several news and achievements can be found on [my LinkedIn page](https://www.linkedin.com/in/nicola-pezzotti-58670527/)
+
 
 Selected Publications
 ================
