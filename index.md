@@ -27,6 +27,7 @@ Selected Publications
 ================
 A detailed list of my publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=61To93wAAAAJ&hl=en) or on [Semantic Scholar](https://www.semanticscholar.org/author/Nicola-Pezzotti/2343408)
 
+* N. Pezzotti, S. Yousefi, M. Elmahdy, J. Van Gemert, C. Schuelke, M. Doneva, T. Nielsen, S. Kastryulin, B.P.F. Lelieveldt, M. Van Osch, E. De Weerdt, M. Staring **An adaptive intelligence algorithm for undersampled knee MRI reconstruction**. IEEE Access, 2020 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9241039)
 * N. Pezzotti, J. Thijssen, A. Mordvintsev, T. Höllt,  B. van Lew, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **GPGPU Linear Complexity t-SNE Optimization**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2019), 2019. [Preprint](https://arxiv.org/abs/1805.10817), [Demo](https://nicola17.github.io/tfjs-tsne-demo/), [Google AI post](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html)
 * V. van Unen\*, T. Hollt\*, N. Pezzotti\*, N. Li, M. J.T. Reinders, E. Eisemann, A. Vilanova, F. Koning, B. P.F. Lelieveldt. **Interactive Visual Analysis of Mass Cytometry Data by Hierarchical Stochastic Neighbor Embedding Reveals Rare Cell Types**. Nature Communications, 2017. [Website](https://www.nature.com/articles/s41467-017-01689-9) [PDF](https://www.nature.com/articles/s41467-017-01689-9.pdf)
 * N. Pezzotti, T. Höllt, J. van Gemert, B.P.F. Lelieveldt, E. Eisemann, A. Vilanova. **DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks**. Transaction on Visualization and Computer Graphics (Proceedings of IEEE VIS 2017), 2018. [PDF](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/paper216.pdf), [Video](https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/file216.avi)
@@ -58,7 +59,7 @@ I've started to share updates only via LinkedIn.
 You can see all updates on [my LinkedIn timeline](https://www.linkedin.com/in/nicola-pezzotti-58670527/recent-activity/shares/).
 I also share stuff on Twitter: have a look at [Twitter my feed](https://twitter.com/nicolapezzotti).
 
-Here some older updates 
+Here some older updates:
 
 * **01 Oct 2020** - I joined the program committee of IAAI-21
 * **29 Sep 2020** - Speaker at the panel "AI and the Future of Humankind" at the Czech Innovation Week 2020.
