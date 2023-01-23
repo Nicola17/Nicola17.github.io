@@ -36,6 +36,8 @@ A detailed list of my publications can be found on my [Google Scholar page](http
 
 Awards
 ================
+* **2021** - Philips Innovation Award: deep learning methodologies for improved image quality in MRI
+* **2021** - Won the IEEE CoG Bot Bowl III competition, developing the first and only machine learning algorithm that is able to win in Blood Bowl
 * **2020** - Philips Innovation Award: tools and techniques for Deep Learning and trustworthy AI 
 * **2020** - Best Scientific Paper Award in Computer Vision - Philips AI Conference
 * **2020** - Highest Business Potential Award in Computer Vision - Philips AI conference 
