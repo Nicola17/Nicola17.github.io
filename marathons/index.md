@@ -3,9 +3,11 @@ layout: default
 title: Nicola Pezzotti - Marathons
 ---
 
-Marathons
+Marathons and Ultras
 =======================
 
+* Eindhoven - The Netherlands - 2024 [GPS](https://connect.garmin.com/modern/activity/17274344214)
+* Bernina Glacier Marathon - Switzerland - 2023 [GPS](https://connect.garmin.com/modern/activity/11464354608)
 * 100km de Passatore - Italy - 2022 [GPS](https://connect.garmin.com/modern/activity/8868542468)
 * Rome - Italy - 2022 [GPS](https://connect.garmin.com/modern/activity/8533365163)
 * Rotterdam - The Netherlands - 2017  [GPS](https://connect.garmin.com/modern/activity/1681133715)
